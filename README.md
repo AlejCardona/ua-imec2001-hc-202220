@@ -1,4 +1,4 @@
-<img src='./utils/uniandes_abet.png' width='250'/>
+<img src='./utils/uniandes_abet.png' width='850'/>
 
 # IMEC2001 Herramientas Computacionales 
 Ciclo de Talleres <br>
